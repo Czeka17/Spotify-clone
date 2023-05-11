@@ -1,5 +1,5 @@
 function FriendList(){
-    return <section className="flex flex-col justify-start items-center w-[20%] bg-red-700 pt-40 text-white">
+    return <section className="flex flex-col justify-start items-center w-[20%] bg-neutral-900 text-white">
         <div>
             <ul className="flex flex-col">
                 <li className="flex flex-row justify-center items-center">
