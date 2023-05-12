@@ -1,5 +1,5 @@
 function Library(){
-    return (<section className="flex flex-col justify-start items-start bg-neutral-900 w-[20%] text-white px-4">
+    return (<section className="flex flex-col justify-start items-start bg-neutral-900 w-[20%] text-white px-4 ml-1 rounded-lg">
         <div>
             <ul>
                 <li className="flex flex-row justify-center items-center p-2">
